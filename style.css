@@ -1,0 +1,107 @@
+.hero {
+    background-color: #1F2937 ;
+    display: flex;
+    padding-left: 100px;
+    
+}
+
+.hero-text {
+    flex: 1
+}
+
+.hero div {
+    background: #1F2937
+
+}
+
+.hero-header {
+    color: #F9FAF8;
+    font-size: 24px;
+    display: flex;
+    background: #1F2937;
+    justify-content: space-around;
+}
+
+.header-links {
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+    color: #E5E7EB;
+    
+}
+
+.hero-logo {
+    flex: 1;
+    padding: 10px;
+    justify-content: flex-start;
+}
+
+.hero-link-one {
+    flex: 1;
+    padding: 10px;
+}
+
+.hero-link-two {
+    flex: 1;
+    padding: 10px;
+}
+
+.hero-link-three {
+    flex: 1;
+    padding: 10px;
+}
+
+
+.hero-main {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: extra-bold;
+    justify-content: center;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+#button {
+    color: #3882F6;
+}
+.dog-flower {
+    display: flex;
+    width: auto;
+    height: 400px;
+    flex: 1;
+    padding-left: 300px;
+}
+
+.dog-images {
+    display: flex;
+    justify-content:space-around;
+}
+
+.dog-quote {
+    background: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    padding: 100px;
+}
+
+.small-title {
+    display: flex;
+    justify-content:space-around
+}
+
+.image-text {
+    display: flex;
+    justify-content: space-around;
+}
+
+.action {
+    background-color: #3882F6;
+    color:#E5E7EB;
+    display: flex;
+    padding: 50px;
+    margin: 100px;
+    justify-content: space-around;
